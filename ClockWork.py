@@ -29,4 +29,5 @@ async def countdown():
     embed.add_field(name="time until drop", value=deltaTime, inline=False)
     await client.say(embed=embed)
 
-client.run("NDUyNjczMTA2MjM5MDI5MjQ5.DfTw5g.bc8OsyvTiVMdpPOVd5AGLQFWZkg")
+client.run("botToken")
+# You need a bot token^ They are not hard to get but you can't have mine ^_^
